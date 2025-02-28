@@ -13,3 +13,6 @@ This project builds an **end-to-end Data Engineering pipeline** for processing *
 ✔ **Batch processing** of metadata with PySpark  
 ✔ **ETL pipeline with AWS S3 & Redshift**  
 ✔ **Interactive dashboards in Power BI**  
+
+## Visualization
+![Screenshot 2025-02-28 130306](https://github.com/user-attachments/assets/d2e27f2b-805b-4ad8-a31f-e12fd738ba6f)
